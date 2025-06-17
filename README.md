@@ -41,7 +41,7 @@ Democratize access to decentralized networks and AI through modular hardware/sof
 ## 4. Brand Architecture
 
 ### Narrative:
-TechnoPlay positions itself as the infrastructure layer for the decentralized economy. The brand blends cyberpunk aesthetics with next-gen hardware and agentic AI.
+TechnoPlay positions itself as the infrastructure layer for the decentralized economy. The brand blends samurai like cyberpunk aesthetics with next-gen hardware and agentic AI.
 
 ### Visual Identity:
 
