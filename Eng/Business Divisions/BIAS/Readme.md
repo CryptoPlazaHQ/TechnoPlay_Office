@@ -4,9 +4,9 @@
   
 ![TechnoPlay BIAS Division](https://via.placeholder.com/800x200?text=Business+Intelligence+%26+Automation+Solutions)
 
-# **Business Intelligence & Automation Solutions (BIAS Division)**
+# **Business Intelligence & Automation Solutions (Agentic Framework)**
 
-*Building Intelligence, Automating Success*
+*BIAS - Building Intelligence, Automating Success*
 
 </div>
 
