@@ -13,7 +13,9 @@ La División de Hardware se centra en la capa de infraestructura física del eco
 
 #### Monetización de Hardware
 Nuestro enfoque único para la implementación de hardware crea múltiples fuentes de ingresos a partir de cada activo físico:
-- **Operaciones de Minería**: Despliegue estratégico de nodos de almacenamiento para redes Arweave y STORJ
+- **Operaciones de Minería**: Despliegue estratégico de nodos basados en mini pcs para el uso con aplicaciones de Conectividad como Honeygain, earnapp, Pawns app, PacketStream, Mysterium network, para monetizar con ese modelo.
+-
+- **almacenamiento para redes** ejemplo Arweave, STORJ, Streamr y los proyectos que permitan la creación de un modeko monetizable con nodos al proveer renta de almacenamiento 
 - **Computación GPU**: Recursos de computación de alto rendimiento para aplicaciones de IA y aprendizaje automático
 - **Procesamiento de Borde**: Nodos de computación distribuidos para procesamiento de datos localizado
 - **Infraestructura IoT**: Redes de sensores y sistemas de recolección de datos para aplicaciones agrícolas y marítimas
